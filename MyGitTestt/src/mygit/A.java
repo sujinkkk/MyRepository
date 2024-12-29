@@ -6,10 +6,14 @@ public class A {
 		// TODO Auto-generated method stub
 		System.out.println("A");
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("A four");
 =======
 		System.out.println("A TWO");
 >>>>>>> refs/heads/master
+=======
+		System.out.println("A three");
+>>>>>>> refs/heads/devB
 	}
 
 }
